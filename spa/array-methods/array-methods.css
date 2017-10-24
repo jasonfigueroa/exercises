@@ -1,0 +1,10 @@
+.list-heading {
+    margin-bottom: 10px;
+    display: inline-block;
+    border-bottom: 1px solid;
+    border-bottom-color: rgba(211, 211, 211, 0.6); 
+}
+
+.indented-list {
+    margin-left: 10px;
+}
